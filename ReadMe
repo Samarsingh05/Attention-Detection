@@ -6,5 +6,5 @@ pip install torch torchvision timm opencv-python pandas numpy tqdm
 
 Clone the repository:
 
-git clone https://github.com/your-username/attention-detection-vit.git
+git clone https://github.com/Samarsingh05/Attention-Detection.git
 
